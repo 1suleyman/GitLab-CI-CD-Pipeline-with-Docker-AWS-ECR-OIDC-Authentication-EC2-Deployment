@@ -54,12 +54,6 @@ Key technologies:
 
 ---
 
-# Architecture Overview
-
-## High-Level Architecture
-
->  Placeholder to insert Architecture Diagram when I'm ready
-
 ### Deployment Flow
 
 ```text
